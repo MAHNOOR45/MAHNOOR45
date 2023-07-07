@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @MAHNOOR45
+- 👀 I'm currently working on sincode  ...
+- 🌱 I’m currently learning angular
+- 💬I’m looking to collaborate on github
+- 📫 How to reach me ...
+- mahnoorkazim3@gmail.com
+- ⚡FUn Fact: i love to code
